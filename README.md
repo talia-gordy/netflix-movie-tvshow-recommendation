@@ -29,11 +29,14 @@ This application has been deployed via Streamlit, to acces it click on this [lin
    
 ## ❔Common Issues and Must Knows
 
-###  In order to run the program, you must download all of the following libaries: numpy, pandas, sklearn, difflib, requests, streamlit and recommend. 
+###  1. In order to run the program, you must download all of the following libaries: numpy, pandas, sklearn, difflib, requests, streamlit and recommend. 
 
 - Why? -> Google collab has all but streamlit installed, this project comes with a simple interface and in order for the model and the interface to work together, they must both be downloaded in python.
 - These steps don't apply if you plan on simply viewing the program via the streamlit link.
-  
+
+### 2. The dataset used in this model, is for movies and shows released in 2022 and earlier.
+- This project was created in Janurary 2026, the dataset despite being made in 2022 was choosen for its usabiity. 
+ 
 
 
 
